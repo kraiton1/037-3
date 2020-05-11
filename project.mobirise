@@ -1,0 +1,560 @@
+{
+  "settings": {
+    "currentPage": "1000.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {},
+      "titlePreset": "Landing Page",
+      "nameSelectPreset": "landing",
+      "additionalSetColors": [
+        "#37383e"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "name": "Women's fashion",
+    "versionFirst": "4.12.3",
+    "siteFonts": [],
+    "imageResize": true,
+    "favicon": "@PROJECT_PATH@/assets/images/212-128x160.png",
+    "robotsSwitcher": true,
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "google-analytics": "\n\n\n<script language='JavaScript1.2'>\nfunction disableselect(e){\nreturn false\n}\nfunction reEnable(){\nreturn true\n}\ndocument.onselectstart=new Function (\"return false\")\nif (window.sidebar){\ndocument.onmousedown=disableselect\ndocument.onclick=reEnable\n}\n</script>\n\n\n\n",
+    "cookiesAlert": {
+      "customDialogSelector": false,
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "",
+      "colorLink": "#f1c050",
+      "underlineLink": false,
+      "opacity": "99",
+      "opacityOverlay": "99",
+      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+      "textButton": "Yes"
+    },
+    "gdpr": {
+      "colorText": "#a7a7a7",
+      "colorLink": "#000000",
+      "underlineLink": false,
+      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+    },
+    "sitemapSwitcher": true,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": "https://kraiton1.github.io/037-2/page1.html",
+    "uniqCompNum": 11,
+    "versionPublish": "4.12.3",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "037.html": {
+      "settings": {
+        "main": true,
+        "title": "Mode",
+        "meta_descr": "Это уникальный торговый сайт с характерным тоном \nориентированный на женскую моду. \nМы предлагаем продукцию с высокими эксплуатационными характеристиками \nвключая женскую одежду \nювелирные изделия \nтовары для красоты и здоровья \nобувь \nсумки и многое другое ",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/mbr-1920x1920.jpg"
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "left",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1282.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.3"
+          },
+          "title": "Это уникальный &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; торговый &nbsp;сайт<br>",
+          "text": "<b>&nbsp;С&nbsp; характерным тоном \n<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ориентированный на женскую моду.&nbsp;</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://fas.st/tbYTl\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WEBSITE</a> ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-a",
+          "_styles": {
+            "H1": {
+              "color": "#fbf2be",
+              "text-align": "center"
+            },
+            "B": {
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
+              "font-size": "36px"
+            },
+            "P": {
+              "color": "#d5f4f0",
+              "text-align": "center"
+            },
+            ".btn": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "46px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showBullets": false,
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgColor": "#fff8e0",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/22-1305x381.png",
+                "thumb": "@PROJECT_PATH@/assets/images/22-1305x381-800x234.png",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/545-1288x388.png",
+                "thumb": "@PROJECT_PATH@/assets/images/545-1288x388-800x241.png",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/456-1285x387.png",
+                "thumb": "@PROJECT_PATH@/assets/images/456-1285x387-800x241.png",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/4165-1282x381.png",
+                "thumb": "@PROJECT_PATH@/assets/images/4165-1282x381-800x238.png",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/545-1283x384.png",
+                "thumb": "@PROJECT_PATH@/assets/images/545-1283x384-800x239.png",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/544-1281x379.png",
+                "thumb": "@PROJECT_PATH@/assets/images/544-1281x379-800x237.png",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/55-1281x390.png",
+                "thumb": "@PROJECT_PATH@/assets/images/55-1281x390-800x244.png",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/545-2000x587.png",
+                "thumb": "@PROJECT_PATH@/assets/images/545-2000x587-800x235.png",
+                "alt": "",
+                "title": "",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-0"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".lead P": {
+              "font-size": "30px",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            },
+            ".lead": {
+              "color": "#5bc0de"
+            },
+            ".mbr-section-title": {
+              "color": "#0275d8"
+            },
+            ".btn": {
+              "font-size": "32px",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#FFF8E0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<b>Modern Styles</b><br><b><br></b>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><b><i>Мы предлагаем продукцию с высокими эксплуатационными характеристиками&nbsp;</i></b><b><i>включая женскую одежду &nbsp;</i></b><b><i>ювелирные изделия &nbsp;</i></b></p><p><b><i>товары для красоты и здоровья &nbsp;</i></b></p><p><b><i>обувь</i></b></p><p><b><i>сумки и многое другое \n</i></b></p><p><b><i>Наше видение приносит счастье в жизнь </i></b></p><p><b><i>каждой женщины\n</i></b></p><p><b><i>\n</i></b></p><p><b><i>Особенности компании включают \n</i></b></p><p><b><i>но не ограничиваются:\n</i></b></p><p><b><i>\n</i></b></p><p><b>100 000+<i> стилей продукта и </i>500+<i> ежедневных стилей обновления\n</i></b></p><p><b><i>\n</i></b></p><p><b><i>Мы собираем информацию о женской моде и поставляем соответствующие товары в кратчайшие сроки\n</i></b></p><p><b><i>\n</i></b></p><p><i style=\"font-weight: bold;\">Цены на </i>50-80%<i style=\"font-weight: bold;\"> дешевле местных.\n</i></p><p><b><i>\n</i></b></p><p><b><i>Мы сотрудничаем со многими производителями \n</i></b></p><p><b><i>а не с посредниками\n</i></b></p><p><b><i>Мы покупаем в масштабе \n</i></b></p><p><b><i>поэтому цена ниже рыночной\n</i></b></p><p><b><i>\n</i></b></p><p><b><i>Рекомендации по продуктам\n</i></b></p><p><b><i>\n</i></b></p><p><b><i>Мы рекомендуем вам популярные продукты \n</i></b></p><p><b><i>о которых вы могли не знать\n</i></b></p><p><b><i>Возможность поделиться своим стилем с друзьями.\n</i></b></p><p><b><i>Публикуйте и делитесь своим стилем \n</i></b></p><p><b><i>чтобы рассказать друзьям \n</i></b></p><p><b><i>насколько вы круты.\n</i></b></p><p><b><i>Безопасная оплата через \n</i></b></p><p><b><i><a href=\"https://www.paypal.com/\" target=\"_blank\">PayPal</a> </i></b></p><p><b><i>или с помощью кредитной карты.\n</i></b></p><p><b><i>Регистрация купонов и тематических мероприятий.</i></b></p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://fas.st/tbYTl\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>WEBSITE</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-2"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#0275d8",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2020.kraiton 1.It is forbidden to copy materials from the website for free.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-4"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#0275d8",
+            "overlayOpacity": "1"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/62626266-1.png",
+              "width": 265,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "globe-2",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": "1",
+              "active": true
+            }
+          },
+          "text1": "",
+          "text2": "<br><br>Email: kraiton379@gmail.com&nbsp;<br>",
+          "text3": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-a"
+        }
+      ]
+    },
+    "1000.html": {
+      "settings": {
+        "title": "Moda",
+        "meta_descr": "Это уникальный торговый сайт с характерным тоном \nориентированный на женскую моду. \nМы предлагаем продукцию с высокими эксплуатационными характеристиками \nвключая женскую одежду \nювелирные изделия \nтовары для красоты и здоровья \nобувь \nсумки и многое другое ",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/mbr-1920x1920.jpg",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "left",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1282.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.3"
+          },
+          "title": "Это уникальный &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; торговый &nbsp;сайт<br>",
+          "text": "<b>&nbsp;С&nbsp; характерным тоном \n<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ориентированный на женскую моду.&nbsp;</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://is.gd/wFZeR2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Оплата через Service</a> ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_styles": {
+            "H1": {
+              "color": "#fbf2be",
+              "text-align": "center"
+            },
+            "B": {
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
+              "font-size": "36px"
+            },
+            "P": {
+              "color": "#d5f4f0",
+              "text-align": "center"
+            },
+            ".btn": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "46px"
+            }
+          },
+          "_anchor": "header4-5"
+        },
+        {
+          "_params": {
+            "showBullets": false,
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgColor": "#fff8e0",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/22-1305x381.png",
+                "thumb": "@PROJECT_PATH@/assets/images/22-1305x381-800x234.png",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/545-1288x388.png",
+                "thumb": "@PROJECT_PATH@/assets/images/545-1288x388-800x241.png",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/456-1285x387.png",
+                "thumb": "@PROJECT_PATH@/assets/images/456-1285x387-800x241.png",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/4165-1282x381.png",
+                "thumb": "@PROJECT_PATH@/assets/images/4165-1282x381-800x238.png",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/545-1283x384.png",
+                "thumb": "@PROJECT_PATH@/assets/images/545-1283x384-800x239.png",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/544-1281x379.png",
+                "thumb": "@PROJECT_PATH@/assets/images/544-1281x379-800x237.png",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/55-1281x390.png",
+                "thumb": "@PROJECT_PATH@/assets/images/55-1281x390-800x244.png",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/545-2000x587.png",
+                "thumb": "@PROJECT_PATH@/assets/images/545-2000x587-800x235.png",
+                "alt": "",
+                "title": "",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-6"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".lead P": {
+              "font-size": "30px",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            },
+            ".lead": {
+              "color": "#5bc0de"
+            },
+            ".mbr-section-title": {
+              "color": "#0275d8"
+            },
+            ".btn": {
+              "font-size": "36px",
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#FFF8E0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<b>Modern Styles</b><br><b><br></b>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><b><i>Мы предлагаем продукцию с высокими эксплуатационными характеристиками&nbsp;</i></b><b><i>включая женскую одежду &nbsp;</i></b><b><i>ювелирные изделия &nbsp;</i></b></p><p><b><i>товары для красоты и здоровья &nbsp;</i></b></p><p><b><i>обувь</i></b></p><p><b><i>сумки и многое другое \n</i></b></p><p><b><i>Наше видение приносит счастье в жизнь </i></b></p><p><b><i>каждой женщины\n</i></b></p><p><b><i>\n</i></b></p><p><b><i>Особенности компании включают \n</i></b></p><p><b><i>но не ограничиваются:\n</i></b></p><p><b><i>\n</i></b></p><p><b>100 000+<i> стилей продукта и </i>500+<i> ежедневных стилей обновления\n</i></b></p><p><b><i>\n</i></b></p><p><b><i>Мы собираем информацию о женской моде и поставляем соответствующие товары в кратчайшие сроки\n</i></b></p><p><b><i>\n</i></b></p><p><i style=\"font-weight: bold;\">Цены на </i>50-80%<i style=\"font-weight: bold;\"> дешевле местных.\n</i></p><p><b><i>\n</i></b></p><p><b><i>Мы сотрудничаем со многими производителями \n</i></b></p><p><b><i>а не с посредниками\n</i></b></p><p><b><i>Мы покупаем в масштабе \n</i></b></p><p><b><i>поэтому цена ниже рыночной\n</i></b></p><p><b><i>\n</i></b></p><p><b><i>Рекомендации по продуктам\n</i></b></p><p><b><i>\n</i></b></p><p><b><i>Мы рекомендуем вам популярные продукты \n</i></b></p><p><b><i>о которых вы могли не знать\n</i></b></p><p><b><i>Возможность поделиться своим стилем с друзьями.\n</i></b></p><p><b><i>Публикуйте и делитесь своим стилем \n</i></b></p><p><b><i>чтобы рассказать друзьям \n</i></b></p><p><b><i>насколько вы круты.\n</i></b></p><p><b><i>Безопасная оплата через \n</i></b></p><p><b><i><a href=\"https://www.paypal.com/\" target=\"_blank\">PayPal</a> </i></b></p><p><b><i>или с помощью кредитной карты.\n</i></b></p><p><b><i>Регистрация купонов и тематических мероприятий.</i></b></p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://is.gd/wFZeR2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ОПЛАТА</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-7"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#0275d8",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2020.kraiton 1.It is forbidden to copy materials from the website for free.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-8"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#0275d8",
+            "overlayOpacity": "1"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/62626266-1.png",
+              "width": 265,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "globe-2",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": "1",
+              "active": true
+            }
+          },
+          "text1": "",
+          "text2": "<br><br>Email: kraiton379@gmail.com&nbsp;<br>",
+          "text3": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-a"
+        }
+      ]
+    }
+  }
+}
